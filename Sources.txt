@@ -1,0 +1,12 @@
+Images
+1. https://www.drawkit.com/product/halloween-illustrations
+
+Icons
+1. https://fontawesome.com/icons/twitter?s=&f=brands
+
+SVG
+1. https://github.com/jakearchibald/svgomg
+2. https://mavo.io/demos/svgpath/
+
+Transition
+1. https://cubic-bezier.com/
